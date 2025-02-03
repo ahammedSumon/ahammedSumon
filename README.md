@@ -1,4 +1,9 @@
 # Hi 👋, I'm Salauddin Ahammed
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F7FF&width=435&lines=Passionate+Web+Developer;With+experience+in+React+JS;Open+to+Collaborations+%26+Ideas!" alt="Typing SVG" />
+  </a>
+</h1>
 
 ### Open to Collaborations & Ideas!
 
